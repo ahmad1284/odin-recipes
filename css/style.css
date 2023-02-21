@@ -1,0 +1,16 @@
+body {
+    background-color: springgreen;
+    color: #4627b8;
+    font-size: 20px;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-family: math;
+}
+
+h1 {
+    text-align: left;
+    font-weight: 800;
+}
+
+ol > li {
+    text-align: justify;
+}
