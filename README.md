@@ -1,0 +1,1 @@
+A project for the odin project html curriculum
